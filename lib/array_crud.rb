@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["life", "the_universe", "Everything", "42"]
+  ["life", "the_universe", "everything", "42"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  ["Hello world!" << "Goodbye Cruel World..."]
 end
 
 def add_element_to_start_of_array(array, element)
